@@ -88,7 +88,7 @@ async def pm_text(bot, message):
     if user_id in ADMINS: return # ignore admins
     await message.reply_text(
          text=f"<b>ʜᴇʏ {user} 😍 ,\n\nʏᴏᴜ ᴄᴀɴ'ᴛ ɢᴇᴛ ᴍᴏᴠɪᴇs ꜰʀᴏᴍ ʜᴇʀᴇ. ʀᴇǫᴜᴇsᴛ ɪᴛ ɪɴ ᴏᴜʀ <a href=>ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ</a> ᴏʀ ᴄʟɪᴄᴋ ʀᴇǫᴜᴇsᴛ ʜᴇʀᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ 👇</b>",   
-         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("📝 ʀᴇǫᴜᴇsᴛ ʜᴇʀᴇ ", url=f"https://t.me/+ZjmlLeuGGak5Yjhl")]])
+         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("📝 ʀᴇǫᴜᴇsᴛ ʜᴇʀᴇ ", url=f"https://t.me/movieplaza77")]])
     )
     await bot.send_message(
         chat_id=LOG_CHANNEL,
@@ -1172,7 +1172,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                  InlineKeyboardButton('Jᴏɪɴ Cʜᴀɴɴᴇʟ', url=link.invite_link),
                  InlineKeyboardButton("Vɪᴇᴡ Sᴛᴀᴛᴜs", url=f"{query.message.link}")
                ],[
-                 InlineKeyboardButton("Rᴇᴏ̨ᴜᴇsᴛ Gʀᴏᴜᴘ Lɪɴᴋ", url="https://t.me/+KzbVzahVdqQ3MmM1")
+                 InlineKeyboardButton("Rᴇᴏ̨ᴜᴇsᴛ Gʀᴏᴜᴘ Lɪɴᴋ", url="https://t.me/movieplaza77")
                ]]
         if query.from_user.id in ADMINS:
             user = await client.get_users(from_user)
@@ -1197,7 +1197,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                  InlineKeyboardButton('Jᴏɪɴ Cʜᴀɴɴᴇʟ', url=link.invite_link),
                  InlineKeyboardButton("Vɪᴇᴡ Sᴛᴀᴛᴜs", url=f"{query.message.link}")
                ],[
-                 InlineKeyboardButton("Rᴇᴏ̨ᴜᴇsᴛ Gʀᴏᴜᴘ Lɪɴᴋ", url="https://t.me/vj_bots")
+                 InlineKeyboardButton("Rᴇᴏ̨ᴜᴇsᴛ Gʀᴏᴜᴘ Lɪɴᴋ", url="https://t.me/movieplaza77")
                ]]
         if query.from_user.id in ADMINS:
             user = await client.get_users(from_user)
@@ -1288,7 +1288,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://telegram.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('💸 Eᴀʀɴ Mᴏɴᴇʏ', callback_data="shortlink_info"),
+                    InlineKeyboardButton('CHANNEL', url=GRP_LNK "),
                     InlineKeyboardButton('🍻 Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url=GRP_LNK)
                 ],[
                     InlineKeyboardButton('⚠️ Hᴇʟᴘ', callback_data='help'),
@@ -1332,13 +1332,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "JoinUᴘᴅᴀᴛᴇs":
         buttons = [[
-            InlineKeyboardButton('🫵 SUBSCRIBE 🫵', url="https://youtube.com/@JISSHU-BOTS"),
+            InlineKeyboardButton('🫵 SUBSCRIBE 🫵', url="https://t.me/movieplaza77"),
         ],[
-            InlineKeyboardButton('🍀 Movie Search Group 🍀', url="https://t.me/+ZjmlLeuGGak5Yjhl")
+            InlineKeyboardButton('🍀 Movie Search Group 🍀', url="https://t.me/movieplaza77")
         ],[
-            InlineKeyboardButton('🍂 Movie channel 🍂', url="https://t.me/+Fxa4IrH6obY4MWFl")
+            InlineKeyboardButton('🍂 Movie channel 🍂', url="https://t.me/movieplaza77")
         ],[
-            InlineKeyboardButton('🍁 Bots Update Channel 🍁', url="https://t.me/JISSHU_BOTS")
+            InlineKeyboardButton('🍁 Bots Update Channel 🍁', url="https://t.me/movieplaza77")
         ],[
             InlineKeyboardButton('🥀 Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ 🥀', url=GRP_LNK),
         ],[
