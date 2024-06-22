@@ -1,22 +1,22 @@
 <p align="center">
-<img src="https://github.com/Jisshubot/Jisshubot/blob/master/resources/hr.gif"/>
+<img src="https://telegra.ph/file/bbf0794259d0835c1d0a4.jpg"/>
   
   <img src="https://graph.org/file/29c714c26e0df52fa7477.jpg" alt="ROSE BUCKET Logo">
-  <img src="https://github.com/Jisshubot/Jisshubot/blob/master/resources/hr.gif"/>
+  <img src="[https://github.com/Jisshubot/Jisshubot/blob/master/resources/hr.gif](https://telegra.ph/file/bbf0794259d0835c1d0a4.jpg)"/>
 <h1 align="center">
  JISSHU-BOT 
 </>
-  <img src="https://github.com/Jisshubot/Jisshubot/blob/master/resources/hr.gif"/>
+  <img src="https://telegra.ph/file/bbf0794259d0835c1d0a4.jpg"/>
 <h1> <img src="https://te.legra.ph/file/274cef853f5f608a83a16.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
   
-[<img src="https://raw.githubusercontent.com/Jisshubot/Jisshubot/master/resources/telegram_icon.png" width="60px">](https://telegram.im/@JISSHU_BOTS) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/github_icon.png" width="60px">](https://github.com/Jisshubot) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/youtube_icon.png" width="60px">](https://www.youtube.com/@JISSHU-BOTS) [<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/insta_icon.png" width="60px">](https://instagram.com/Zishan_khan565)
+[<img src="https://raw.githubusercontent.com/Jisshubot/Jisshubot/master/resources/telegram_icon.png" width="60px">](https://telegram.im/@movieplaza77) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/github_icon.png" width="60px">](https://github.com/Nani0778) [<img src="https://raw.githubusercontent.com/AnonymousX1025/AnonymousX1025/master/resources/youtube_icon.png" width="60px">](https://www.youtube.com/aditymusic) [<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/insta_icon.png" width="60px">](https://instagram.com/nanicreations)
 
-[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/Jisshubot)
+[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/Nani0778)
 
 
  
 
- [<img src="https://raw.githubusercontent.com/Jisshubot/Jisshubot/master/resources/telegram_icon.png" width="100px">](https://telegram.im/@JISSHU_BOTS) 
+ [<img src="https://raw.githubusercontent.com/Jisshubot/Jisshubot/master/resources/telegram_icon.png" width="100px">](https://telegram.im/@JISSHU_BOTSmovieplaza77) 
    </br>
  JOIN CHANNEL 
   
