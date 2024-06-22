@@ -16,7 +16,7 @@ NANI
 
  
 
- [<img src="https://raw.githubusercontent.com/Jisshubot/Jisshubot/master/resources/telegram_icon.png" width="100px">](https://telegram.im/@JISSHU_BOTSmovieplaza77) 
+ [<img src="https://raw.githubusercontent.com/Jisshubot/Jisshubot/master/resources/telegram_icon.png" width="100px">](https://telegram.im/@movieplaza77) 
    </br>
  JOIN CHANNEL 
   
@@ -66,7 +66,7 @@ NANI
 - [x] 𝐴𝑢𝑡𝑜 𝐷𝑒𝑙𝑒𝑡𝑒
 - [x] 𝐴𝑛𝑑 𝑀𝑜𝑟𝑒...
 
-<b>𝑇𝑜 𝑘𝑛𝑜𝑤 𝑎𝑏𝑜𝑢𝑡 𝑎𝑙𝑙 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠, 𝐽𝑜𝑖𝑛 𝑜𝑢𝑟 <a href='https://telegram.dog/JISSHU_BOTS'>𝑢𝑝𝑑𝑎𝑡𝑒𝑠 𝑐ℎ𝑎𝑛𝑛𝑒𝑙</a>.</b>
+<b>𝑇𝑜 𝑘𝑛𝑜𝑤 𝑎𝑏𝑜𝑢𝑡 𝑎𝑙𝑙 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠, 𝐽𝑜𝑖𝑛 𝑜𝑢𝑟 <a href='https://telegram.dog/movieplaza77'>𝑢𝑝𝑑𝑎𝑡𝑒𝑠 𝑐ℎ𝑎𝑛𝑛𝑒𝑙</a>.</b>
 
 <img src="https://github.com/Jisshubot/Jisshubot/blob/master/resources/hr.gif"/>
 
@@ -179,21 +179,12 @@ python3 bot.py
 
 <img src="https://github.com/Jisshubot/Jisshubot/blob/master/resources/hr.gif"/>
 
-## Thanks to ⚡
- - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
- - Thanks To jisshu For His Awesome [Media-Search-bot](https://github.com/zishankhan12)
- - Thanks To [JISSHU-BOT](https://youtube.com)
- - Thanks To ALIYA 
- - Thanks To template redesigned by ELITECRAFT STUDIOS
+
 
 <img src="https://github.com/Jisshubot/Jisshubot/blob/master/resources/hr.gif"/>
 
 ## Note 🏷️
  
-* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.im/@JISSHU_BOTS)
-* * [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.im/@IM_JISSHU)
-
-[Note To A So Called Dev](https://telegram.im/JISSHU_BOTS): 
 
 Fork the repo and edit as per your needs.
 
