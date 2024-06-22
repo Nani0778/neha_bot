@@ -1,10 +1,10 @@
 <p align="center">
 <img src="https://telegra.ph/file/bbf0794259d0835c1d0a4.jpg"/>
   
-  <img src="https://graph.org/file/29c714c26e0df52fa7477.jpg" alt="ROSE BUCKET Logo">
-  <img src="[https://github.com/Jisshubot/Jisshubot/blob/master/resources/hr.gif](https://telegra.ph/file/bbf0794259d0835c1d0a4.jpg)"/>
+  
+  <img src="[](https://telegra.ph/file/bbf0794259d0835c1d0a4.jpg)"/>
 <h1 align="center">
- JISSHU-BOT 
+NANI
 </>
   <img src="https://telegra.ph/file/bbf0794259d0835c1d0a4.jpg"/>
 <h1> <img src="https://te.legra.ph/file/274cef853f5f608a83a16.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
