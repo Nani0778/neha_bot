@@ -136,7 +136,7 @@ deletefiles - 𝑇𝑜 𝑑𝑒𝑙𝑒𝑡𝑒 𝑃𝑟𝑒𝐷𝑉𝐷 𝑎�
 Use these commands:
 <br>
 
-<a href="https://render.com/deploy?repo=https://github.com/Jisshubot/JISSHU_BOT/tree/JISSHU">
+<a href="https://render.com/deploy?repo=https://github.com/Nani0778/neha_bot/tree/JISSHU">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 
 </details>
