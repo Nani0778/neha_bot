@@ -1,9 +1,13 @@
+# Don't Remove Credit @movie_file_20
+# Subscribe YouTube Channel For Amazing Bot @movie_file_20
+# Ask Doubt on telegram @KingVJ01
+
 # Bot information
 SESSION = 'Media_search'
 USER_SESSION = 'User_Bot'
-API_ID = 7028372
-API_HASH = '10bc5c7771a121c180ab8859ab438bb8'
-BOT_TOKEN = '6046954414:AAFdnmjzkibFJE4Rrnrt60OZYHXYR3jstyw'
+API_ID = 12345
+API_HASH = '0123456789abcdef0123456789abcdef'
+BOT_TOKEN = '123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11'
 USERBOT_STRING_SESSION = ''
 
 # Bot settings
@@ -11,12 +15,12 @@ CACHE_TIME = 300
 USE_CAPTION_FILTER = False
 
 # Admins, Channels & Users
-ADMINS = [1101776571]
-CHANNELS = [-1002177829082]
-AUTH_USERS = [1101776571]
+ADMINS = [12345789, 'admin123', 98765432]
+CHANNELS = [-10012345678, -100987654321, 'channelusername']
+AUTH_USERS = []
 AUTH_CHANNEL = None
 
 # MongoDB information
-DATABASE_URI = "mongodb+srv://david:surya@cluster0.s7o0tyw.mongodb.net/"
+DATABASE_URI = "mongodb://[username:password@]host1[:port1][,...hostN[:portN]][/[defaultauthdb]?retryWrites=true&w=majority"
 DATABASE_NAME = 'Telegram'
 COLLECTION_NAME = 'channel_files'  # If you are using the same database, then use different collection name for each bot
